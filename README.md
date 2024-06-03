@@ -6,6 +6,7 @@
 - 🖥 I’m passionate about creating interactive and engaging experiences through code.
 - 💡 I enjoy solving complex problems and continuously expanding my knowledge.
 - 🎮 I'm a challenger in League of Legends (?
+- 🎲 I'm a Dungeon Master of D&D 5e with 5 years of experience.
 
 ## Collaboration
 - 🤝 I’m open to contributing to open-source projects and learning from experienced developers.
