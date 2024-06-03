@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in **Python**, **Video Games**, and **more**.
-- 🌱 I’m currently learning **PyGame** and **design patterns**.
+- 🌱 I’m currently learning **PyGame**, **HTML**, **CSS** and **design patterns**.
 - 🎮 I’m passionate about creating interactive and engaging experiences through code.
 - 💡 I enjoy solving complex problems and continuously expanding my knowledge.
 
