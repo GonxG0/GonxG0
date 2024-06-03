@@ -11,9 +11,9 @@
 
 ## Contact
 - 📫 How to reach me:
-  - Email: [your-email@example.com](gonzalo.digangi@gmail.com)
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gonzalo-digangi-fontan/)
-  - Twitter: [@YourTwitterHandle](https://twitter.com/Gonx_Go)
+  - Email: [gonzalo.digangi@gmail.com](mailto:gonzalo.digangi@gmail.com)
+  - LinkedIn: [Gonzalo Digangi Fontan](https://www.linkedin.com/in/gonzalo-digangi-fontan/)
+  - Twitter: [@Gonx_Go](https://twitter.com/Gonx_Go)
 
 ## Fun Fact
 - ⚡ Fun fact: I can name all the Pokémon from the first generation!
@@ -23,13 +23,13 @@
 
 ## Projects
 Here are some of my notable projects:
-- [American Roullete](https://github.com/GonxG0/Ruleta_GonxG0.py): A simple project that simuling a American Roullete with python and TKinter.
-- [TIC TAC TOE](https://github.com/GonxG0/TIC-TAC-TOE): A project that simuling an game of TIC TAC TOE with python and PyGame.
+- [American Roulette](https://github.com/GonxG0/Ruleta_GonxG0.py): A simple project simulating an American Roulette using Python and Tkinter.
+- [TIC TAC TOE](https://github.com/GonxG0/TIC-TAC-TOE): A project simulating a game of TIC TAC TOE using Python and PyGame.
 
 ## Skills
-- **Languages**: Python, HTML, CSS and GML.
-- **Technologies**: PyGame, Django, TKinter, etc, request, Beatifulsoup, celenium, autopy, etc
-- **Tools**: Git
+- **Languages**: Python, HTML, CSS, GML.
+- **Technologies**: PyGame, Django, Tkinter, Requests, BeautifulSoup, Selenium, AutoPy.
+- **Tools**: Git.
 
 ## Connect with Me
-Feel free to connect with me on [LinkedIn]((https://www.linkedin.com/in/gonzalo-digangi-fontan/)) or follow me on [Twitter](https://twitter.com/Gonx_Go) to stay updated on my latest
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gonzalo-digangi-fontan/) or follow me on [Twitter](https://twitter.com/Gonx_Go) to stay updated on my latest projects and activities.
