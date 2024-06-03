@@ -24,6 +24,7 @@
 ## Projects
 Here are some of my notable projects:
 - [American Roullete](https://github.com/GonxG0/Ruleta_GonxG0.py): A simple project that simuling a American Roullete with python and TKinter.
+- [TIC TAC TOE](https://github.com/GonxG0/TIC-TAC-TOE): A project that simuling an game of TIC TAC TOE with python and PyGame.
 
 ## Skills
 - **Languages**: Python, HTML, CSS and GML.
