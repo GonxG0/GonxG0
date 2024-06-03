@@ -11,9 +11,9 @@
 
 ## Contact
 - 📫 How to reach me:
-  - Email: [your-email@example.com](mailto:your-email@example.com)
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-  - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+  - Email: [your-email@example.com](gonzalo.digangi@gmail.com)
+  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gonzalo-digangi-fontan/)
+  - Twitter: [@YourTwitterHandle](https://twitter.com/Gonx_Go)
 
 ## Fun Fact
 - ⚡ Fun fact: I can name all the Pokémon from the first generation!
@@ -23,13 +23,12 @@
 
 ## Projects
 Here are some of my notable projects:
-- [Project Name](https://github.com/yourusername/projectname): Brief description of what the project is about.
-- [Another Project](https://github.com/yourusername/anotherproject): Brief description of what this project does.
+- [American Roullete](https://github.com/GonxG0/Ruleta_GonxG0.py): A simple project that simuling a American Roullete with python and TKinter.
 
 ## Skills
-- **Languages**: Python, JavaScript, etc.
-- **Technologies**: PyGame, Django, React, etc.
-- **Tools**: Git, Docker, etc.
+- **Languages**: Python, HTML, CSS and GML.
+- **Technologies**: PyGame, Django, TKinter, etc, request, Beatifulsoup, celenium, autopy, etc
+- **Tools**: Git
 
 ## Connect with Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or follow me on [Twitter](https://twitter.com/YourTwitterHandle) to stay updated on my latest
+Feel free to connect with me on [LinkedIn]((https://www.linkedin.com/in/gonzalo-digangi-fontan/)) or follow me on [Twitter](https://twitter.com/Gonx_Go) to stay updated on my latest
