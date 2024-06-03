@@ -28,7 +28,7 @@ Here are some of my notable projects:
 ## Skills
 - **Languages**: Python, HTML, CSS, GML.
 - **Technologies**: PyGame, Django, Tkinter, Requests, BeautifulSoup, Selenium, AutoPy.
-- **Tools**: Git.
+- **Tools**: Git and GitHub
 
 ## Certifications
 - [Scientific Computing with Python](https://www.freecodecamp.org/certification/fccb1b14fdc-34c9-4e3f-8572-2ce1af159068/scientific-computing-with-python-v7) - FreeCodeCamp
