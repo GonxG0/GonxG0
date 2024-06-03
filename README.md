@@ -31,5 +31,8 @@ Here are some of my notable projects:
 - **Technologies**: PyGame, Django, Tkinter, Requests, BeautifulSoup, Selenium, AutoPy.
 - **Tools**: Git.
 
+## Certifications
+- [Scientific Computing with Python](https://www.freecodecamp.org/certification/fccb1b14fdc-34c9-4e3f-8572-2ce1af159068/scientific-computing-with-python-v7) - FreeCodeCamp
+
 ## Connect with Me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gonzalo-digangi-fontan/) or follow me on [Twitter](https://twitter.com/Gonx_Go) to stay updated on my latest projects and activities.
