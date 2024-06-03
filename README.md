@@ -15,9 +15,6 @@
   - LinkedIn: [Gonzalo Digangi Fontan](https://www.linkedin.com/in/gonzalo-digangi-fontan/)
   - Twitter: [@Gonx_Go](https://twitter.com/Gonx_Go)
 
-## Fun Fact
-- ⚡ Fun fact: I can name all the Pokémon from the first generation!
-
 ## GitHub Stats
 ![GonxGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonxGo&show_icons=true&theme=radical)
 
