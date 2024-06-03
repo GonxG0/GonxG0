@@ -2,9 +2,10 @@
 
 ## About Me
 - 👀 I’m interested in **Python**, **Video Games**, and **more**.
-- 🌱 I’m currently learning **PyGame**, **HTML**, **CSS** and **design patterns**.
-- 🎮 I’m passionate about creating interactive and engaging experiences through code.
+- 🌱 I’m currently learning **PyGame**, **HTML**, **CSS**, and **design patterns**.
+- 🖥 I’m passionate about creating interactive and engaging experiences through code.
 - 💡 I enjoy solving complex problems and continuously expanding my knowledge.
+- 🎮 I'm a challenger in League of Legends (?
 
 ## Collaboration
 - 🤝 I’m open to contributing to open-source projects and learning from experienced developers.
