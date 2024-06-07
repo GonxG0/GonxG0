@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in **Python**, **Video Games**, and **more**.
-- 🌱 I’m currently learning **PyGame**, **HTML**, **CSS**, and **design patterns**.
+- 🌱 I’m currently learning **PyGame**, **C#**, **HTML**, **CSS**, and **design patterns**.
 - 🖥 I’m passionate about creating interactive and engaging experiences through code.
 - 💡 I enjoy solving complex problems and continuously expanding my knowledge.
 - 🎮 I'm a challenger in League of Legends (?
@@ -30,7 +30,7 @@ Here are some of my notable projects:
 
 ## Skills
 - **Languages**: Python, HTML, CSS, GML.
-- **Technologies**: PyGame, Django, Tkinter, Requests, BeautifulSoup, Selenium, AutoPy.
+- **Technologies**: PyGame, Django, Tkinter, Requests, BeautifulSoup, Selenium, AutoPy, SQLite3.
 - **Tools**: Git and GitHub
 
 ## Certifications
