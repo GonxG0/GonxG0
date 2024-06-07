@@ -25,6 +25,7 @@ Here are some of my notable projects:
 - [American Roulette](https://github.com/GonxG0/Ruleta_GonxG0.py): A simple project simulating an American Roulette using Python and Tkinter.
 - [TIC TAC TOE](https://github.com/GonxG0/TIC-TAC-TOE): A project simulating a game of TIC TAC TOE using Python and PyGame.
 - [Snake](https://github.com/GonxG0/Snake): A project simulating a Snake's game using Python and PyGame.
+- [Online Store](https://github.com/GonxG0/Tienda-Online): A project demonstrating an online store developed with Django
 
 ## Skills
 - **Languages**: Python, HTML, CSS, GML.
